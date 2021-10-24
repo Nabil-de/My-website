@@ -192,7 +192,7 @@ span{
 }
 .text{
 align-items: center;
-width: 400px;
+width: 100%;
 font-size: 25px;
 
   }
@@ -219,7 +219,7 @@ font-size: 25px;
 
   .text{
     align-items: center;
-    width: 200px;
+    width: 100%;
     height: auto;
     font-size: 25px;
     padding:5px;
