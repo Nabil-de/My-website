@@ -118,7 +118,8 @@ img {
     transition: .5s;
 
   }
-
+section{
+  margin-top: 100px;
 }
 
 .nav__list {
