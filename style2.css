@@ -295,9 +295,9 @@ color: black;
 
     }
 
-    .mail{
-      display: none;
-    }
+.text{
+  width: 600px;
+}
     .l-main {
       height: 100vh;
     }
