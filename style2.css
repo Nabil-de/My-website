@@ -226,7 +226,7 @@ font-size: 25px;
     
       }
 
-      section h1 span{
+      section h1 span ,.text span{
           opacity: 1;
           color: var(--first-color);
       }
