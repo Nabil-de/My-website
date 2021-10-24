@@ -230,6 +230,13 @@ font-size: 25px;
           opacity: 1;
           color: var(--first-color);
       }
+      .nav__link .name{
+    opacity: 1;
+    color: var(--first-color);
+  }
+  .nav__link::after {
+   display: none;
+  }
 
 }
 
