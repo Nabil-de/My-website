@@ -208,7 +208,7 @@ font-size: 25px;
   
 @media screen and (max-width: 768px) {
   .nav__menu {
-    position: sticky;
+    position: fixed;
     top: -100%;
     left: 0;
     background-image: -webkit-gradient(linear, left top, left bottom, from(var(--black-color)), to(var(--first-color)));
