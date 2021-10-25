@@ -332,7 +332,9 @@ color: black;
     .nav__link {
       text-transform: initial;
     }
-
+.mail{
+      display: none;
+    }
 
    
 }
