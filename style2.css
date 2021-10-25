@@ -243,7 +243,8 @@ font-size: 25px;
    display: none;
   }
   #myInput{
-width:300px
+  width:200px
+  text-align:center;
   }
   
 }
