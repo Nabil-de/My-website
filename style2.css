@@ -174,7 +174,6 @@ button{
 input{
   border: 2px solid var(--first-color);
   padding: 15px;
-  width:100px;
   border-radius: 50px;
   background-color: var(--black-color);
   color: var(--white-color);
