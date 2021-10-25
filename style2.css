@@ -127,7 +127,7 @@ section{
 }
 .home__button {
   display: inline-block;
-  width: 200px;
+  width: 400px;
   margin-top: 1.5rem;
   font-size: .75rem;
   color: var(--white-color);
