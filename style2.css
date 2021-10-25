@@ -141,7 +141,9 @@ section{
 .home__button:hover {
   color: black;
   
-  
+.click{
+  opasity:1;
+  font-waight:bold;
 }
 .mail{
   
