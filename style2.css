@@ -141,6 +141,10 @@ section{
 .home__button:hover {
   color: black;
   
+.click{
+  color:var(--first-color);
+  font-weight:bold;
+    
   
 }
 .mail{
