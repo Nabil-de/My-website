@@ -42,6 +42,9 @@ gsap.from('.title', { opacity: 0, duration: 3, delay: 3.2, y: 25, ease: 'expo.ou
 
 gsap.from('.mail', { opacity: 0, duration: 3, delay: 2.3, y: 25, ease: 'expo.out', stagger: .3 })
 
+gsap.from('.title_one', { opacity: 0, duration: 2, delay: 2, x: 60 })
+
+gsap.from('.cards', { opacity: 0, duration: 3, delay: 2.3, y: 25, ease: 'expo.out', stagger: .3 })
 
 
 
